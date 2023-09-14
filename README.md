@@ -1,0 +1,2 @@
+# python
+Változó nevek
