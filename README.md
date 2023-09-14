@@ -1,2 +1,3 @@
 # python
-Változó nevek
+Változó nevek 
+Bővítettem a laírást.
